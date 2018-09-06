@@ -99,7 +99,7 @@
     > Os primeiros itens do Product Backlog, que são os prioritários, serão os primeiros a serem desenvolvidos. Por isso, precisam estar em um nível tal de detalhe que possibilite o seu entendimento por todos os envolvidos.
 
 
-  ![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
+  ![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg =128x128 "The Stormtroopocat")
   **Notas importante**
    * O Product Backlog nunca está pronto. Uma vez que o Scrum aceita as mudanças, a cada ciclo de desenvolvimento, novos requisitos são descobertos, e esses devem ser incluídos no backlog de acordo com sua prioridade.
 
