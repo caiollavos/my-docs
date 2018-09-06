@@ -8,7 +8,7 @@
   * Colaboração com o cliente mais que negociação de contratos
   * Responder a mudanças mais que seguir um plano
 
-  #### Mesmo havendo valor nos itens à direita, valorizamos mais os itens à esquerda.
+  **Mesmo havendo valor nos itens à direita, valorizamos mais os itens à esquerda.**
 
 # Princípios
 
@@ -35,3 +35,13 @@
   * As melhores arquiteturas, requisitos e designs emergem de times auto-organizáveis.
   
   * Em intervalos regulares, o time reflete em como ficar mais efetivo, então, se ajustam e otimizam seu comportamento de acordo.
+
+# Pilares
+  * **Transparência**
+    * Todos os responsáveis pelo resultado devem ter a visão de tudo o que está acontecendo, além de um mesmo entendimento do que está sendo visto.
+
+  * **Inspeção**
+    * Os artefatos e o progresso em direção ao objetivo devem ser inspecionados frequentemente por todos os usuários do Scrum, de maneira a detectar desvios indesejáveis.
+
+  * **Adaptação**
+    * As coisas mudam. O Scrum aceita essa verdade e prega a adaptação a mudanças no lugar de tentar evitá-las. Trabalhando com ciclos curtos, as mudanças são melhor aceitas e menos dolorosas, uma vez que não existem planos extensos que deverão ser mudados para adequar-se a elas.
