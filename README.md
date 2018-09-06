@@ -8,7 +8,7 @@
   * Colaboração com o cliente mais que negociação de contratos
   * Responder a mudanças mais que seguir um plano
 
-  **Mesmo havendo valor nos itens à direita, valorizamos mais os itens à esquerda.**
+  #### Mesmo havendo valor nos itens à direita, valorizamos mais os itens à esquerda.
 
 # Princípios
 
