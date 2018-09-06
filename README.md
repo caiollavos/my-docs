@@ -84,4 +84,8 @@
 
     
   * ### **Time de desenvolvimento**
-    *  
+    > O Time de Desenvolvimento é composto por todos os responsáveis pelo desenvolvimento dos requisitos (programadores, testers, DBA's, etc.). Dentro do time, independente de seu cargo na organização, todos são conhecidos como Desenvolvedor.
+
+    O Time de Desenvolvimento é auto gerenciável, ou seja, ninguém pode dizer ao time o que fazer, exceto o próprio time.
+
+    De acordo com o Guia do Scrum, o Time de Desenvolvimento idealmente deve ter entre 3 e 9 membros.  
