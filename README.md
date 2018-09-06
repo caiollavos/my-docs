@@ -98,6 +98,10 @@
 
     > Os primeiros itens do Product Backlog, que são os prioritários, serão os primeiros a serem desenvolvidos. Por isso, precisam estar em um nível tal de detalhe que possibilite o seu entendimento por todos os envolvidos.
 
+<div style="text-align: center">
+  **Notas importante**
+  <img src="https://octodex.github.com/images/stormtroopocat.jpg" alt="Stormtrooper" width="128"/>
+</div>
 
   **Notas importante**
   <img src="https://octodex.github.com/images/stormtroopocat.jpg" alt="Stormtrooper" width="128"/>
