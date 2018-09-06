@@ -62,7 +62,24 @@
     > O Scrum Master deve ser uma pessoa capaz de inspirar os demais membros do time a serem autogerenciáveis e interdisciplinares, além de mostrar a importância dos valores ágeis. Deve ser uma pessoa com influência na organização e apoio da alta gerência, uma vez que caberá a ele resolver os impedimentos.
 
   * **Product Owner**
-    *
+    > O Product Owner ou PO representa o cliente dentro do time Scrum. É sabido que um alto grau de envolvimento do cliente representa mais assertividade nos resultados. No entanto, normalmente o cliente não pode estar disponível para o Time de Desenvolvimento toda vez que seja necessário tirar uma dúvida ou validar um requisito, por exemplo. Por isso esse papel no Scrum cabe ao Product Owner.
+
+    O Product Owner é o responsável por priorizar os requisitos a serem desenvolvidos, aceitar os requisitos entregues e fazer a interface entre o Time de Desenvolvimento e o cliente.
+
+    O foco do Product Owner é maximizar o valor do produto entregue, visando sempre o desenvolvimento dos requisitos mais importantes para o negócio.
+
+    * As **principais tarefas** do Product Owner são:
+
+      * Manter o Product Backlog;
+      * Aceitar ou rejeitar o trabalho realizado pelo Time de Desenvolvimento;
+      * Priorizar os requisitos a serem implementados;
+      * Estar presente para auxiliar o Time de Desenvolvimento durante a execução do trabalho;
+      * Auxiliar o cliente na descoberta de novos requisitos;
+      * Ser o centralizador de demandas que chegarão ao Time de Desenvolvimento;
+
+    <br/>
+
+    > Caso o Product Owner não possua alguma informação necessária, é papel dele realizar esse levantamento junto ao cliente.
 
   * **Time de desenvolvimento**
     *  
