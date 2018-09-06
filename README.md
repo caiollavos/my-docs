@@ -89,3 +89,18 @@
     > O Time de Desenvolvimento é auto gerenciável, ou seja, ninguém pode dizer ao time o que fazer, exceto o próprio time.
 
     > De acordo com o Guia do Scrum, o Time de Desenvolvimento idealmente deve ter entre 3 e 9 membros.
+
+# Artefatos
+  * ### **Product Backlog**
+    > É uma lista priorizada de todos os requisitos necessários no produto.
+
+    > O Product Backlog é a origem única de todos os requisitos para qualquer mudança a ser feita no produto, e é mantido pelo Product Owner.
+
+    > Os primeiros itens do Product Backlog, que são os prioritários, serão os primeiros a serem desenvolvidos. Por isso, precisam estar em um nível tal de detalhe que possibilite o seu entendimento por todos os envolvidos.
+
+
+  ![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
+  **Notas importante**
+   * O Product Backlog nunca está pronto. Uma vez que o Scrum aceita as mudanças, a cada ciclo de desenvolvimento, novos requisitos são descobertos, e esses devem ser incluídos no backlog de acordo com sua prioridade.
+
+    * Da mesma maneira, durante o ciclo de vida de um produto pode-se perceber que determinados itens do backlog deixaram de fazer sentido, não sendo mais necessários. Esses itens devem ser removidos do Product Backlog tão logo se perceba essa necessidade.
