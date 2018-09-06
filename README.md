@@ -65,9 +65,9 @@
   * ### **Product Owner**
     > O Product Owner ou PO representa o cliente dentro do time Scrum. É sabido que um alto grau de envolvimento do cliente representa mais assertividade nos resultados. No entanto, normalmente o cliente não pode estar disponível para o Time de Desenvolvimento toda vez que seja necessário tirar uma dúvida ou validar um requisito, por exemplo. Por isso esse papel no Scrum cabe ao Product Owner.
 
-    O Product Owner é o responsável por priorizar os requisitos a serem desenvolvidos, aceitar os requisitos entregues e fazer a interface entre o Time de Desenvolvimento e o cliente.
+    > O Product Owner é o responsável por priorizar os requisitos a serem desenvolvidos, aceitar os requisitos entregues e fazer a interface entre o Time de Desenvolvimento e o cliente.
 
-    O foco do Product Owner é maximizar o valor do produto entregue, visando sempre o desenvolvimento dos requisitos mais importantes para o negócio.
+    > O foco do Product Owner é maximizar o valor do produto entregue, visando sempre o desenvolvimento dos requisitos mais importantes para o negócio.
 
     * As **principais tarefas** do Product Owner são:
 
@@ -86,6 +86,6 @@
   * ### **Time de desenvolvimento**
     > O Time de Desenvolvimento é composto por todos os responsáveis pelo desenvolvimento dos requisitos (programadores, testers, DBA's, etc.). Dentro do time, independente de seu cargo na organização, todos são conhecidos como Desenvolvedor.
 
-    O Time de Desenvolvimento é auto gerenciável, ou seja, ninguém pode dizer ao time o que fazer, exceto o próprio time.
+    > O Time de Desenvolvimento é auto gerenciável, ou seja, ninguém pode dizer ao time o que fazer, exceto o próprio time.
 
-    De acordo com o Guia do Scrum, o Time de Desenvolvimento idealmente deve ter entre 3 e 9 membros.  
+    > De acordo com o Guia do Scrum, o Time de Desenvolvimento idealmente deve ter entre 3 e 9 membros.
