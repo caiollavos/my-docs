@@ -47,7 +47,7 @@
     * As coisas mudam. O Scrum aceita essa verdade e prega a adaptação a mudanças no lugar de tentar evitá-las. Trabalhando com ciclos curtos, as mudanças são melhor aceitas e menos dolorosas, uma vez que não existem planos extensos que deverão ser mudados para adequar-se a elas.
 
 # Papéis
-  * **Scrum Master**
+  * ### **Scrum Master**
     > O Scrum Master ou SM é o Mestre do time Scrum. No entanto, ele não é um gerente ou coisa que o valha, uma vez que o time Scrum é autogerenciável.
 
     * As **principais tarefas** do Scrum Master são:
@@ -60,8 +60,10 @@
     <br />
     
     > O Scrum Master deve ser uma pessoa capaz de inspirar os demais membros do time a serem autogerenciáveis e interdisciplinares, além de mostrar a importância dos valores ágeis. Deve ser uma pessoa com influência na organização e apoio da alta gerência, uma vez que caberá a ele resolver os impedimentos.
-
-  * **Product Owner**
+    
+    <br/>
+    
+  * ### **Product Owner**
     > O Product Owner ou PO representa o cliente dentro do time Scrum. É sabido que um alto grau de envolvimento do cliente representa mais assertividade nos resultados. No entanto, normalmente o cliente não pode estar disponível para o Time de Desenvolvimento toda vez que seja necessário tirar uma dúvida ou validar um requisito, por exemplo. Por isso esse papel no Scrum cabe ao Product Owner.
 
     O Product Owner é o responsável por priorizar os requisitos a serem desenvolvidos, aceitar os requisitos entregues e fazer a interface entre o Time de Desenvolvimento e o cliente.
@@ -80,6 +82,8 @@
     <br/>
 
     > Caso o Product Owner não possua alguma informação necessária, é papel dele realizar esse levantamento junto ao cliente.
-
-  * **Time de desenvolvimento**
+    
+    <br/>
+    
+  * ### **Time de desenvolvimento**
     *  
