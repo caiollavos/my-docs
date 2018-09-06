@@ -1,6 +1,5 @@
 # Definição
   > Um framework para desenvolver e manter produtos complexos.
-___
 
 # Manifesto Ágil
 
@@ -10,10 +9,8 @@ ___
   * Responder a mudanças mais que seguir um plano
 
   **Mesmo havendo valor nos itens à direita, valorizamos mais os itens à esquerda.**
-___
 
 # Princípios
-___
 
   * Nossa maior prioridade é satisfazer o cliente, através da entrega adiantada e contínua de software de valor.
 
@@ -38,5 +35,3 @@ ___
   * As melhores arquiteturas, requisitos e designs emergem de times auto-organizáveis.
   
   * Em intervalos regulares, o time reflete em como ficar mais efetivo, então, se ajustam e otimizam seu comportamento de acordo.
-
-___
