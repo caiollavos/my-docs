@@ -57,6 +57,7 @@
       * Realizar o treinamento de pessoas / equipes que não sejam familiarizadas com o Scrum;
       * Ser o facilitador de todos os eventos do Scrum.
 
+
     > O Scrum Master deve ser uma pessoa capaz de inspirar os demais membros do time a serem autogerenciáveis e interdisciplinares, além de mostrar a importância dos valores ágeis. Deve ser uma pessoa com influência na organização e apoio da alta gerência, uma vez que caberá a ele resolver os impedimentos.
 
   * **Product Owner**
