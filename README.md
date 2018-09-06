@@ -45,3 +45,22 @@
 
   * **Adaptação**
     * As coisas mudam. O Scrum aceita essa verdade e prega a adaptação a mudanças no lugar de tentar evitá-las. Trabalhando com ciclos curtos, as mudanças são melhor aceitas e menos dolorosas, uma vez que não existem planos extensos que deverão ser mudados para adequar-se a elas.
+
+# Papéis
+  * **Scrum Master**
+    > O Scrum Master ou SM é o Mestre do time Scrum. No entanto, ele não é um gerente ou coisa que o valha, uma vez que o time Scrum é autogerenciável.
+
+    * As **principais tarefas** do Scrum Master são:
+
+      * Garantir que os membros do time entendam e apliquem as regras do Scrum;
+      * Remover todos os impedimentos que possam atrapalhar o bom andamento do time;
+      * Realizar o treinamento de pessoas / equipes que não sejam familiarizadas com o Scrum;
+      * Ser o facilitador de todos os eventos do Scrum.
+
+    > O Scrum Master deve ser uma pessoa capaz de inspirar os demais membros do time a serem autogerenciáveis e interdisciplinares, além de mostrar a importância dos valores ágeis. Deve ser uma pessoa com influência na organização e apoio da alta gerência, uma vez que caberá a ele resolver os impedimentos.
+
+  * **Product Owner**
+    *
+
+  * **Time de desenvolvimento**
+    *  
