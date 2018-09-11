@@ -1,6 +1,6 @@
 # Índice
   * [Definição](#Definição)
-  * [Manifesto-Ágil](#Manifesto-Ágil)
+  * [Manifesto Ágil](#Manifesto-Ágil)
   * [Princípios](#Princípios)
 
 # Definição
