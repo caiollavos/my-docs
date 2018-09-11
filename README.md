@@ -101,3 +101,39 @@
 * ![Warning](http://icocentre.com/Icons/g-warning.png?size=16) O Product Backlog nunca está pronto. Uma vez que o Scrum aceita as mudanças, a cada ciclo de desenvolvimento, novos requisitos são descobertos, e esses devem ser incluídos no backlog de acordo com sua prioridade.
 
 * ![Warning](http://icocentre.com/Icons/g-warning.png?size=16) Da mesma maneira, durante o ciclo de vida de um produto pode-se perceber que determinados itens do backlog deixaram de fazer sentido, não sendo mais necessários. Esses itens devem ser removidos do Product Backlog tão logo se perceba essa necessidade.
+
+  * ### **Sprint Backlog**
+    > É uma lista priorizada de tudo que será desenvolvido na Sprint atual.
+
+    > Durante toda a Sprint, o Time de Desenvolvimento modifica o backlog, adequando-o as mudanças ocorridas durante o desenvolvimento. 
+
+    > Somente o **Time de Desenvolvimento** pode alterar o Sprint Backlog.
+
+  * ### **Incremento**
+    > Ao final de uma sprint, todos os itens que foram finalizados formam um incremento do produto. Esse incremento deve ser entregável e utilizável, de maneira que o cliente perceba valor no produto a cada final de sprint.
+
+    > A decisão de liberar ou não o incremento pertence ao **Product Owner**.
+
+  * ### **Definição de Pronto**
+    > Todos os itens que serão implementados devem possuir uma definição de pronto clara e que faça sentido para todos os envolvidos.
+
+    > É através da definição de pronto que se assegura a transparência de quando determinada parte do trabalho estará realmente finalizada.
+
+    > Somente itens com definição de pronto clara são considerados aptos para terem sua estimativa realizada e seu desenvolvimento iniciado, uma vez que sem essa informação é impossível para o Time de Desenvolvimento estimar e realizar o trabalho.
+
+#Eventos
+  O Guia do Scrum descreve alguns eventos, usados para criar uma rotina e diminuir a ocorrência de reuniões não planejadas. Os eventos no Scrum são **time-boxed**, ou seja, possuem um tempo pré-determinado. Isso força que o evento seja realizado no tempo estabelecido, evitando desperdícios. Todos os eventos do Scrum são oportunidades para inspecionar e adaptar algo. A ocorrência dos eventos aumenta a transparência do processo para todos os envolvidos.
+
+  * ### **Sprint**
+    > Com um time-box que varia entre duas e quatro semanas, a sprint é o coração do Scrum. É durante a sprint que o trabalho é efetivamente realizado pelo Time de Desenvolvimento e, ao seu final, espera-se obter um incremento potencialmente utilizável do produto.
+
+    > Toda sprint possui uma meta. A meta é definida pelo Product Owner e deve refletir um objetivo do negócio. Durante a sprint, o Time de Desenvolvimento se guia pela meta, para saber qual tarefa é mais importante de ser concluída. A meta é a grande responsável por manter todos os membros do time em sintonia, uma vez que guia o trabalho de todos durante a sprint.
+
+    > ![Warning](http://icocentre.com/Icons/g-warning.png?size=16) **Sprints não podem durar mais do que quatro semanas**. Isso porque em quatro semanas as coisas podem mudar e a meta da sprint deixar de fazer sentido. 
+
+    > Scrum aceita muito bem mudanças, no entanto, durante uma sprint certas coisas não podem ser alteradas:
+      * ![Star](https://cdn2.iconfinder.com/data/icons/diagona/icon/16/031.png) Composição do time de desenvolvimento
+      * ![Star](https://cdn2.iconfinder.com/data/icons/diagona/icon/16/031.png) Critérios de qualidade
+      * ![Star](https://cdn2.iconfinder.com/data/icons/diagona/icon/16/031.png) A meta da sprint
+
+      
