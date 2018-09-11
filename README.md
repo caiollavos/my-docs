@@ -121,7 +121,7 @@
 
     > Somente itens com definição de pronto clara são considerados aptos para terem sua estimativa realizada e seu desenvolvimento iniciado, uma vez que sem essa informação é impossível para o Time de Desenvolvimento estimar e realizar o trabalho.
 
-#Eventos
+# Eventos
   O Guia do Scrum descreve alguns eventos, usados para criar uma rotina e diminuir a ocorrência de reuniões não planejadas. Os eventos no Scrum são **time-boxed**, ou seja, possuem um tempo pré-determinado. Isso força que o evento seja realizado no tempo estabelecido, evitando desperdícios. Todos os eventos do Scrum são oportunidades para inspecionar e adaptar algo. A ocorrência dos eventos aumenta a transparência do processo para todos os envolvidos.
 
   * ### **Sprint**
