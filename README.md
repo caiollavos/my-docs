@@ -122,7 +122,11 @@
     > Somente itens com definição de pronto clara são considerados aptos para terem sua estimativa realizada e seu desenvolvimento iniciado, uma vez que sem essa informação é impossível para o Time de Desenvolvimento estimar e realizar o trabalho.
 
 # Eventos
-  O Guia do Scrum descreve alguns eventos, usados para criar uma rotina e diminuir a ocorrência de reuniões não planejadas. Os eventos no Scrum são **time-boxed**, ou seja, possuem um tempo pré-determinado. Isso força que o evento seja realizado no tempo estabelecido, evitando desperdícios. Todos os eventos do Scrum são oportunidades para inspecionar e adaptar algo. A ocorrência dos eventos aumenta a transparência do processo para todos os envolvidos.
+  O Guia do Scrum descreve alguns eventos, usados para criar uma rotina e diminuir a ocorrência de reuniões não planejadas.
+  <br />
+  Os eventos no Scrum são **time-boxed**, ou seja, possuem um tempo pré-determinado. Isso força que o evento seja realizado no tempo estabelecido, evitando desperdícios.
+  <br />
+  Todos os eventos do Scrum são oportunidades para inspecionar e adaptar algo. A ocorrência dos eventos aumenta a transparência do processo para todos os envolvidos.
 
   * ### **Sprint**
     > Com um time-box que varia entre duas e quatro semanas, a sprint é o coração do Scrum. É durante a sprint que o trabalho é efetivamente realizado pelo Time de Desenvolvimento e, ao seu final, espera-se obter um incremento potencialmente utilizável do produto.
@@ -136,4 +140,72 @@
       * ![Star](https://cdn2.iconfinder.com/data/icons/diagona/icon/16/031.png) Critérios de qualidade
       * ![Star](https://cdn2.iconfinder.com/data/icons/diagona/icon/16/031.png) A meta da sprint
 
+    > Caso o aprendizado durante a sprint force alguma alteração no escopo combinado previamente, isso deve ser negociado entre o **Product Owner** e o **Time de Desenvolvimento**.
+
+    > Durante a sprint, é papel do **Scrum Master** manter o **Time de Desenvolvimento** isolado de problemas externos, eliminando todos os impedimentos à realização do trabalho que possam surgir.
+
+    > O **Product Owner** deve estar disponível durante a sprint o maior tempo possível. Um **Product Owner** ausente costuma ser um grande problema, uma vez que algumas dúvidas relacionadas a regras de negócio só podem ser esclarecidas por ele.
+
+  * ### **Reunião de Planejamento da Sprint**
+    > Com um **time-box** que varia entre quatro e oito horas, a reunião de planejamento é o evento onde são definidos e discutidos os itens que farão parte da sprint.
+
+    > Basicamente a reunião de planejamento deve responder duas questões:
+      1. **O que será entregue como incremento ao fim da próxima sprint?**
+        * A entrada para essa parte da reunião é o **Product Backlog**. O **Product Owner** apresenta ao **Time de Desenvolvimento** os itens ordenados, que são entendidos com a colaboração de todos.
+
+        * Com base em seu desempenho passado, o **Time de Desenvolvimento** projeta sua capacidade durante a sprint e avalia quais os itens do backlog podem ser completados durante a sprint. Essa avaliação é preliminar nesse momento, e cabe somente ao **Time de Desenvolvimento**.
+
+        * Após a definição dos itens que serão completados na sprint define-se a meta da sprint. A meta é definida pelo **Product Owner**, no entanto o time colabora para sua elaboração.
       
+      2. **Como o trabalho será realizado para que esse incremento seja entregue?**
+        * Após selecionar os itens que serão completados na sprint, o Time de Desenvolvimento passa a discutir como construir as funcionalidades durante a sprint, de maneira que sejam consideradas completadas (de acordo com a definição de pronto).
+
+        * Os itens que serão realizados na sprint, junto com seu plano de entrega, compõem o **Sprint Backlog**.
+
+        * Feito isso, o **Time de Desenvolvimento** estima todos os itens do backlog da sprint. Nesse momento, o **Product Owner** pode estar presente, para esclarecer alguma dúvida que possa surgir ou mesmo realizar algum ajuste no escopo da sprint, caso o **Time de Desenvolvimento** julgue esse ajuste necessário.
+
+        * Se sentir necessidade, o **Time de Desenvolvimento** também pode convidar outras pessoas a participarem da reunião, como especialistas técnicos, por exemplo.
+
+        * As estimativas são feitas sempre por todos os membros do **Time de Desenvolvimento**. Existem diversas técnicas de estimativa, mas o mais importante nesse momento é que os itens sejam discutidos por todos até que o Time se sinta confortável a se comprometer com uma estimativa.
+
+        * Ao final da reunião, o **Time de Desenvolvimento** possui o **Sprint Backlog** e metas definidos, além de um plano de trabalho determinado para a entrega dos requisitos.
+  
+  * ### **Reunião Diária**
+    > Com um time-box de quinze minutos, a reunião diária deve ser realizada sempre no mesmo local e horário, contando com a presença de todos os membros do Time de Desenvolvimento.
+
+    * ![Warning](http://icocentre.com/Icons/g-warning.png?size=16) Somente os membros do Time de Desenvolvimento participam dessa reunião.
+
+    * ![Warning](http://icocentre.com/Icons/g-warning.png?size=16) Alguns sustentam que essa reunião seja feita com os participantes em pé, de maneira a evitar que o time-box seja desrespeitado.
+    
+    > Nessa reunião, cada membro do Time de Desenvolvimento deve responder três questões:
+      1. O que foi feito desde a última reunião ?
+      2. O que será feito até a próxima reunião ?
+      3. Existe algum impedimento para a conclusão das tarefas ?
+  
+    > A reunião diária é uma reunião chave para inspeção e adaptação, uma vez que, a cada 24 horas, todos os membros do **Time de Desenvolvimento** tem oportunidade de se reunir, inspecionar o andamento do trabalho e adaptá-lo a alguma necessidade que tenha surgido.
+
+    > Com a reunião diária, todos os membros do **Time de Desenvolvimento** são capazes de reportar o andamento da sprint para o **Scrum Master** ou **Product Owner**.
+
+    > O **Scrum Master** deve ficar atento aos impedimentos levantados durante a reunião diária, uma vez que será sua responsabilidade removê-los para que o trabalho do time possa ser executado.
+  
+  * ### **Revisão de Sprint**
+    > Com um time-box entre duas e quatro horas, a reunião de revisão da sprint é realizada ao final da sprint e tem o propósito de inspecionar o incremento e atualizar o **Product Backlog**, se necessário.
+
+    > Nessa reunião, o **Time de Desenvolvimento** e as partes interessadas discutem sobre o que foi feito na sprint e também sobre os próximos itens a serem entregues.
+
+    > Essa reunião tem o intuito de promover ao **Time de Desenvolvimento** um feedback sobre o trabalho realizado durante a sprint, motivando-o e promovendo a colaboração.
+
+    > Durante essa reunião, o **Product Owner** identifica o que foi pronto e o que não foi pronto, de acordo com a definição estabelecida. Além disso, discute e revisa o **Product Backlog**, projetando as prováveis datas de conclusão de acordo com o andamento até o momento.
+
+    > **O Time de Desenvolvimento** levanta o que foi bem durante a sprint, além dos problemas ocorridos e como foram resolvidos. Além disso, o **Time de Desenvolvimento** apresenta o que está pronto e também responde questões sobre o incremento.
+
+  * ### **Retrospectiva de Sprint**
+    > Com um **time-box entre uma e três horas**, a reunião de retrospectiva da sprint serve para o **Time de Desenvolvimento** promover sua melhoria contínua.
+
+    > Nessa reunião o **Scrum Master**, como facilitador, deve incentivar o **Time de Desenvolvimento** a levantar os seguintes pontos:
+
+      1. Como a sprint transcorreu em relação às pessoas, aos processos, às ferramentas, etc; 
+      2. Levantar os pontos positivos da sprint e os pontos a melhorar;
+      3. Montar um plano para implementar melhorias no trabalho do Time de Desenvolvimento.
+
+    > Ao final dessa reunião, o time possui uma lista de melhorias a serem realizadas para a próxima sprint, além de uma lista do que deu certo e deve ser repetido.
