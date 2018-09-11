@@ -1,7 +1,7 @@
 # Índice
-  * [Definição](#Definição)
-  * [manifesto agil](#manifesto-agil)
-  * [Princípios](#Princípios)
+  * [Definição](#definição)
+  * [Manifesto Ágil](#manifesto-agil)
+  * [Princípios](#princípios)
 
 # Definição
   > Um framework para desenvolver e manter produtos complexos.
