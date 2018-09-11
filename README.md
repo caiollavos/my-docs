@@ -1,4 +1,4 @@
-# Definição
+# Definição SCRUM
   > Um framework para desenvolver e manter produtos complexos.
 
 # Manifesto Ágil
@@ -139,7 +139,9 @@
       * ![Star](https://cdn2.iconfinder.com/data/icons/diagona/icon/16/031.png) Composição do time de desenvolvimento
       * ![Star](https://cdn2.iconfinder.com/data/icons/diagona/icon/16/031.png) Critérios de qualidade
       * ![Star](https://cdn2.iconfinder.com/data/icons/diagona/icon/16/031.png) A meta da sprint
-    <br />
+    
+    <br>
+    
     > Caso o aprendizado durante a sprint force alguma alteração no escopo combinado previamente, isso deve ser negociado entre o **Product Owner** e o **Time de Desenvolvimento**.
 
     > Durante a sprint, é papel do **Scrum Master** manter o **Time de Desenvolvimento** isolado de problemas externos, eliminando todos os impedimentos à realização do trabalho que possam surgir.
@@ -177,10 +179,10 @@
 
     * ![Warning](http://icocentre.com/Icons/g-warning.png?size=16) Alguns sustentam que essa reunião seja feita com os participantes em pé, de maneira a evitar que o time-box seja desrespeitado.
     
-    > Nessa reunião, cada membro do Time de Desenvolvimento deve responder três questões:
-      1. O que foi feito desde a última reunião ?
-      2. O que será feito até a próxima reunião ?
-      3. Existe algum impedimento para a conclusão das tarefas ?
+    > Nessa reunião, cada membro do **Time de Desenvolvimento deve** responder três questões:
+      * O que foi feito desde a última reunião ?
+      * O que será feito até a próxima reunião ?
+      * Existe algum impedimento para a conclusão das tarefas ?
   
     > A reunião diária é uma reunião chave para inspeção e adaptação, uma vez que, a cada 24 horas, todos os membros do **Time de Desenvolvimento** tem oportunidade de se reunir, inspecionar o andamento do trabalho e adaptá-lo a alguma necessidade que tenha surgido.
 
@@ -204,8 +206,8 @@
 
     > Nessa reunião o **Scrum Master**, como facilitador, deve incentivar o **Time de Desenvolvimento** a levantar os seguintes pontos:
 
-      1. Como a sprint transcorreu em relação às pessoas, aos processos, às ferramentas, etc; 
-      2. Levantar os pontos positivos da sprint e os pontos a melhorar;
-      3. Montar um plano para implementar melhorias no trabalho do Time de Desenvolvimento.
+      * Como a sprint transcorreu em relação às pessoas, aos processos, às ferramentas, etc; 
+      * Levantar os pontos positivos da sprint e os pontos a melhorar;
+      * Montar um plano para implementar melhorias no trabalho do Time de Desenvolvimento.
 
     > Ao final dessa reunião, o time possui uma lista de melhorias a serem realizadas para a próxima sprint, além de uma lista do que deu certo e deve ser repetido.
