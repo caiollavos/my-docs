@@ -122,11 +122,11 @@
     > Somente itens com definição de pronto clara são considerados aptos para terem sua estimativa realizada e seu desenvolvimento iniciado, uma vez que sem essa informação é impossível para o Time de Desenvolvimento estimar e realizar o trabalho.
 
 # Eventos
-  O Guia do Scrum descreve alguns eventos, usados para criar uma rotina e diminuir a ocorrência de reuniões não planejadas.
-  <br />
-  Os eventos no Scrum são **time-boxed**, ou seja, possuem um tempo pré-determinado. Isso força que o evento seja realizado no tempo estabelecido, evitando desperdícios.
-  <br />
-  Todos os eventos do Scrum são oportunidades para inspecionar e adaptar algo. A ocorrência dos eventos aumenta a transparência do processo para todos os envolvidos.
+  > O Guia do Scrum descreve alguns eventos, usados para criar uma rotina e diminuir a ocorrência de reuniões não planejadas.
+  
+  > Os eventos no Scrum são **time-boxed**, ou seja, possuem um tempo pré-determinado. Isso força que o evento seja realizado no tempo estabelecido, evitando desperdícios.
+  
+  > Todos os eventos do Scrum são oportunidades para inspecionar e adaptar algo. A ocorrência dos eventos aumenta a transparência do processo para todos os envolvidos.
 
   * ### **Sprint**
     > Com um time-box que varia entre duas e quatro semanas, a sprint é o coração do Scrum. É durante a sprint que o trabalho é efetivamente realizado pelo Time de Desenvolvimento e, ao seu final, espera-se obter um incremento potencialmente utilizável do produto.
@@ -139,7 +139,7 @@
       * ![Star](https://cdn2.iconfinder.com/data/icons/diagona/icon/16/031.png) Composição do time de desenvolvimento
       * ![Star](https://cdn2.iconfinder.com/data/icons/diagona/icon/16/031.png) Critérios de qualidade
       * ![Star](https://cdn2.iconfinder.com/data/icons/diagona/icon/16/031.png) A meta da sprint
-
+    <br />
     > Caso o aprendizado durante a sprint force alguma alteração no escopo combinado previamente, isso deve ser negociado entre o **Product Owner** e o **Time de Desenvolvimento**.
 
     > Durante a sprint, é papel do **Scrum Master** manter o **Time de Desenvolvimento** isolado de problemas externos, eliminando todos os impedimentos à realização do trabalho que possam surgir.
@@ -150,14 +150,14 @@
     > Com um **time-box** que varia entre quatro e oito horas, a reunião de planejamento é o evento onde são definidos e discutidos os itens que farão parte da sprint.
 
     > Basicamente a reunião de planejamento deve responder duas questões:
-      1. **O que será entregue como incremento ao fim da próxima sprint?**
+      * ![Hand](https://www.fasten.it/img/icon_16_pointer.png) **O que será entregue como incremento ao fim da próxima sprint?**
         * A entrada para essa parte da reunião é o **Product Backlog**. O **Product Owner** apresenta ao **Time de Desenvolvimento** os itens ordenados, que são entendidos com a colaboração de todos.
 
         * Com base em seu desempenho passado, o **Time de Desenvolvimento** projeta sua capacidade durante a sprint e avalia quais os itens do backlog podem ser completados durante a sprint. Essa avaliação é preliminar nesse momento, e cabe somente ao **Time de Desenvolvimento**.
 
         * Após a definição dos itens que serão completados na sprint define-se a meta da sprint. A meta é definida pelo **Product Owner**, no entanto o time colabora para sua elaboração.
       
-      2. **Como o trabalho será realizado para que esse incremento seja entregue?**
+      * ![Hand](https://www.fasten.it/img/icon_16_pointer.png) **Como o trabalho será realizado para que esse incremento seja entregue?**
         * Após selecionar os itens que serão completados na sprint, o Time de Desenvolvimento passa a discutir como construir as funcionalidades durante a sprint, de maneira que sejam consideradas completadas (de acordo com a definição de pronto).
 
         * Os itens que serão realizados na sprint, junto com seu plano de entrega, compõem o **Sprint Backlog**.
