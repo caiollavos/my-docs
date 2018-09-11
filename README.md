@@ -1,4 +1,4 @@
-# Definição SCRUM
+# Definição
   > Um framework para desenvolver e manter produtos complexos.
 
 # Manifesto Ágil
@@ -180,9 +180,11 @@
     * ![Warning](http://icocentre.com/Icons/g-warning.png?size=16) Alguns sustentam que essa reunião seja feita com os participantes em pé, de maneira a evitar que o time-box seja desrespeitado.
     
     > Nessa reunião, cada membro do **Time de Desenvolvimento deve** responder três questões:
-      * O que foi feito desde a última reunião ?
-      * O que será feito até a próxima reunião ?
-      * Existe algum impedimento para a conclusão das tarefas ?
+      * ![Star](https://cdn2.iconfinder.com/data/icons/diagona/icon/16/031.png) O que foi feito desde a última reunião ?
+      * ![Star](https://cdn2.iconfinder.com/data/icons/diagona/icon/16/031.png) O que será feito até a próxima reunião ?
+      * ![Star](https://cdn2.iconfinder.com/data/icons/diagona/icon/16/031.png) Existe algum impedimento para a conclusão das tarefas ?
+
+      <br>
   
     > A reunião diária é uma reunião chave para inspeção e adaptação, uma vez que, a cada 24 horas, todos os membros do **Time de Desenvolvimento** tem oportunidade de se reunir, inspecionar o andamento do trabalho e adaptá-lo a alguma necessidade que tenha surgido.
 
